@@ -1,5 +1,9 @@
 package decorador;
 
-public class DecoradorDeCafe {
+import componente.Cafezinho;
 
+public abstract class DecoradorDeCafe extends Cafezinho {
+	public String getDescricao() {
+		return "";
+	}	
 }
