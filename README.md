@@ -4,7 +4,7 @@ Basically it shows the objects composit and how to implement the Open-Closed pri
 It based upon: Use a cabeça com padrões de projeto, Eric Freeman & Elizabeth Freeman and
 Design Patterns book, written by Eric Gamma and others.
 
-This project aims to assist my students learning about design patterns as extra classes activities.            
+This project (written in pure Java language) aims to assist my students learning about design patterns as extra classes activities.            
                          
 Cafezinho => abstract (COMPONENT)
 DecoradorDeCafe => abstract (DECORATOR)
