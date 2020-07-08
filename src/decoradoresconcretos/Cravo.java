@@ -1,7 +1,5 @@
 package decoradoresconcretos;
-
 import componente.Cafezinho;
-
 public class Cravo {
 	Cafezinho cafezinho;
 	public Cravo(Cafezinho cafezinho) {
