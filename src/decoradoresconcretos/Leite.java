@@ -10,6 +10,10 @@ public class Leite extends DecoradorDeCafe {
 		this.cafezinho = cafezinho;
 	}
 	
+	public String getDescricao() {
+		 return cafezinho.getDescricao()+", DECORADO COM LEITE.";
+	}
+	
 	public double custo() {
 		return 1.0 + cafezinho.custo();
 	}
